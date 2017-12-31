@@ -50,9 +50,11 @@
 **[1]** Hester, Todd, et al. **Learning from Demonstrations for Real World Reinforcement Learning.** arXiv preprint arXiv:1704.03732 (2017).
 
 ### Others
-**[1]** Duan, Yan, et al. **Benchmarking deep reinforcement learning for continuous control.** International Conference on Machine Learning. 2016.
+**[1]** Arulkumaran, Kai, et al. **A Brief Survey of Deep Reinforcement Learning.** (2017).
 
-**[2]** Henderson, Peter, et al. **Deep reinforcement learning that matters.** arXiv preprint arXiv:1709.06560 (2017).
+**[2]** Duan, Yan, et al. **Benchmarking deep reinforcement learning for continuous control.** International Conference on Machine Learning. 2016.
+
+**[4]** Henderson, Peter, et al. **Deep reinforcement learning that matters.** arXiv preprint arXiv:1709.06560 (2017).
 
 
 
