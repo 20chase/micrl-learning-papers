@@ -56,7 +56,7 @@
 ### Learning From Demonstrations
 **[1]** Hester, Todd, et al. "Learning from Demonstrations for Real World Reinforcement Learning." arXiv preprint arXiv:1704.03732 (2017).
 
-**[1]** Večerík, Matej, et al. **Leveraging demonstrations for deep reinforcement learning on robotics problems with sparse rewards.** arXiv preprint arXiv:1707.08817 (2017).
+**[2]** Večerík, Matej, et al. **Leveraging demonstrations for deep reinforcement learning on robotics problems with sparse rewards.** arXiv preprint arXiv:1707.08817 (2017).
 
 ### Others
 **[1]** Arulkumaran, Kai, et al. **A Brief Survey of Deep Reinforcement Learning.** (2017).
