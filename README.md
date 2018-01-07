@@ -36,6 +36,13 @@
 
 **[9]** Wu, Yuhuai, et al. **Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation.** Advances in Neural Information Processing Systems. 2017.
 
+### Hierarchical Deep Reinforcement Learning
+**[1]** Kulkarni, Tejas D., et al. **Hierarchical deep reinforcement learning: Integrating temporal abstraction and intrinsic motivation.** Advances in Neural Information Processing Systems. 2016.
+
+**[2]** Bacon, Pierre-Luc, Jean Harb, and Doina Precup. **The Option-Critic Architecture.** AAAI. 2017.
+
+**[3]** Vezhnevets, Alexander Sasha, et al. **Feudal networks for hierarchical reinforcement learning.** arXiv preprint arXiv:1703.01161 (2017).
+
 ### Imitation Learning
 **[1]** Ho, Jonathan, and Stefano Ermon. **Generative adversarial imitation learning.** Advances in Neural Information Processing Systems. 2016.
 
