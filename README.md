@@ -54,7 +54,7 @@
 **[3]** Frans, Kevin, et al. **Meta Learning Shared Hierarchies.** arXiv preprint arXiv:1710.09767 (2017).
 
 ### Learning From Demonstrations
-**[1]** Hester, Todd, et al. "Learning from Demonstrations for Real World Reinforcement Learning." arXiv preprint arXiv:1704.03732 (2017).
+**[1]** Hester, Todd, et al. **Learning from Demonstrations for Real World Reinforcement Learning.** arXiv preprint arXiv:1704.03732 (2017).
 
 **[2]** Večerík, Matej, et al. **Leveraging demonstrations for deep reinforcement learning on robotics problems with sparse rewards.** arXiv preprint arXiv:1707.08817 (2017).
 
