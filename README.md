@@ -1,7 +1,24 @@
 # MICRL Reading Lists
-------------------------------
+
+## 0. Convolutional Neural Networks
+### Object classification
+**[1]** Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. **Imagenet classification with deep convolutional neural networks.** Advances in neural information processing systems. 2012.
+
+**[2]** Simonyan, Karen, and Andrew Zisserman. **Very deep convolutional networks for large-scale image recognition.** arXiv preprint arXiv:1409.1556 (2014).
+
+**[3]** Szegedy, Christian, et al. **Going deeper with convolutions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.
+
+**[4]** He, Kaiming, et al. **Deep residual learning for image recognition.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
+
+**[5]** Szegedy, Christian, et al. **Rethinking the inception architecture for computer vision.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.
+
+**[6]** Szegedy, Christian, et al. **Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning.** AAAI. 2017.
+
+**[7]** Howard, Andrew G., et al. **Mobilenets: Efficient convolutional neural networks for mobile vision applications.** arXiv preprint arXiv:1704.04861 (2017).
+
+**[8]** Zoph, Barret, et al. **Learning transferable architectures for scalable image recognition.** arXiv preprint arXiv:1707.07012 (2017).
+
 ## 1. Deep Reinforcement Learning
-------------------------------
 ### Q Learning
 **[1]** Mnih, Volodymyr, et al. **Playing atari with deep reinforcement learning.** arXiv preprint arXiv:1312.5602 (2013).
 
