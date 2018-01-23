@@ -16,7 +16,9 @@
 
 **[7]** Howard, Andrew G., et al. **Mobilenets: Efficient convolutional neural networks for mobile vision applications.** arXiv preprint arXiv:1704.04861 (2017).
 
-**[8]** Zoph, Barret, et al. **Learning transferable architectures for scalable image recognition.** arXiv preprint arXiv:1707.07012 (2017).
+**[8]** Sandler, Mark, et al. **Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation.** arXiv preprint arXiv:1801.04381 (2018).
+
+**[9]** Zoph, Barret, et al. **Learning transferable architectures for scalable image recognition.** arXiv preprint arXiv:1707.07012 (2017).
 
 ## 1. Deep Reinforcement Learning
 ### Q Learning
