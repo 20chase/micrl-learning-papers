@@ -51,9 +51,11 @@
 
 **[7]** Heess, Nicolas, et al. **Emergence of locomotion behaviours in rich environments.** arXiv preprint arXiv:1707.02286 (2017).
 
-**[8]** Schulman, John, et al. **Proximal policy optimization algorithms.** arXiv preprint arXiv:1707.06347 (2017).
+**[8]** Nachum, Ofir, et al. **Trust-PCL: An Off-Policy Trust Region Method for Continuous Control.** arXiv preprint arXiv:1707.01891 (2017).
 
-**[9]** Wu, Yuhuai, et al. **Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation.** Advances in Neural Information Processing Systems. 2017.
+**[9]** Schulman, John, et al. **Proximal policy optimization algorithms.** arXiv preprint arXiv:1707.06347 (2017).
+
+**[10]** Wu, Yuhuai, et al. **Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation.** Advances in Neural Information Processing Systems. 2017.
 
 ### Hierarchical Deep Reinforcement Learning
 **[1]** Kulkarni, Tejas D., et al. **Hierarchical deep reinforcement learning: Integrating temporal abstraction and intrinsic motivation.** Advances in Neural Information Processing Systems. 2016.
