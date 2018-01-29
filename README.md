@@ -84,6 +84,8 @@
 
 **[2]** Duan, Yan, et al. **Benchmarking deep reinforcement learning for continuous control.** International Conference on Machine Learning. 2016.
 
+**[3]** Attia, Alexandre, and Sharone Dayan. **Global overview of Imitation Learning.** arXiv preprint arXiv:1801.06503 (2018).
+
 **[4]** Henderson, Peter, et al. **Deep reinforcement learning that matters.** arXiv preprint arXiv:1709.06560 (2017).
 
 
