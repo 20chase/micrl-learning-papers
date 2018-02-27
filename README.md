@@ -88,7 +88,13 @@
 
 **[4]** Henderson, Peter, et al. **Deep reinforcement learning that matters.** arXiv preprint arXiv:1709.06560 (2017).
 
+## 2. Deep Learning on Robotics
 
+### Simulation to Real World
+**[1]** Rusu, Andrei A., et al. **Sim-to-real robot learning from pixels with progressive nets.** arXiv preprint arXiv:1610.04286 (2016).
 
+**[2]** Sadeghi, Fereshteh, and Sergey Levine. **Cad2rl: Real single-image flight without a single real image.** arXiv preprint arXiv:1611.04201 (2016).
 
+**[3]** Peng, Xue Bin, et al. **Sim-to-real transfer of robotic control with dynamics randomization.** arXiv preprint arXiv:1710.06537 (2017).
 
+**[4]** Pinto, Lerrel, et al. **Asymmetric Actor Critic for Image-Based Robot Learning.** arXiv preprint arXiv:1710.06542 (2017).
