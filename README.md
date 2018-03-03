@@ -67,6 +67,8 @@
 ### Imitation Learning
 **[1]** Ho, Jonathan, and Stefano Ermon. **Generative adversarial imitation learning.** Advances in Neural Information Processing Systems. 2016.
 
+**[2]** Wang, Ziyu, et al. **Robust imitation of diverse behaviors.** Advances in Neural Information Processing Systems. 2017.
+
 ### Meta Learning For DRL
 **[1]** Al-Shedivat, Maruan, et al. **Continuous adaptation via meta-learning in nonstationary and competitive environments.** arXiv preprint arXiv:1710.03641 (2017).
 
@@ -98,3 +100,5 @@
 **[3]** Peng, Xue Bin, et al. **Sim-to-real transfer of robotic control with dynamics randomization.** arXiv preprint arXiv:1710.06537 (2017).
 
 **[4]** Pinto, Lerrel, et al. **Asymmetric Actor Critic for Image-Based Robot Learning.** arXiv preprint arXiv:1710.06542 (2017).
+
+**[5]** Andrychowicz, Marcin, et al. **Hindsight experience replay.** Advances in Neural Information Processing Systems. 2017.
