@@ -64,6 +64,19 @@
 
 **[3]** Vezhnevets, Alexander Sasha, et al. **Feudal networks for hierarchical reinforcement learning.** arXiv preprint arXiv:1703.01161 (2017).
 
+**[4]** Fox, Roy, et al. **Multi-level discovery of deep options.** arXiv preprint arXiv:1703.08294 (2017).
+
+**[5]** Krishnan, Sanjay, et al. **DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations.** Conference on Robot Learning. 2017.
+
+### Sparse Reward
+**[1]** Andrychowicz, Marcin, et al. **Hindsight experience replay.** Advances in Neural Information Processing Systems. 2017.
+
+**[2]** Nair, Ashvin, et al. **Overcoming exploration in reinforcement learning with demonstrations.** arXiv preprint arXiv:1709.10089 (2017).
+
+**[3]** Held, David, et al. **Automatic goal generation for reinforcement learning agents.** arXiv preprint arXiv:1705.06366 (2017).
+
+**[4]** Florensa, Carlos, et al. **Reverse curriculum generation for reinforcement learning.** arXiv preprint arXiv:1707.05300 (2017).
+
 ### Imitation Learning
 **[1]** Ho, Jonathan, and Stefano Ermon. **Generative adversarial imitation learning.** Advances in Neural Information Processing Systems. 2016.
 
@@ -100,5 +113,3 @@
 **[3]** Peng, Xue Bin, et al. **Sim-to-real transfer of robotic control with dynamics randomization.** arXiv preprint arXiv:1710.06537 (2017).
 
 **[4]** Pinto, Lerrel, et al. **Asymmetric Actor Critic for Image-Based Robot Learning.** arXiv preprint arXiv:1710.06542 (2017).
-
-**[5]** Andrychowicz, Marcin, et al. **Hindsight experience replay.** Advances in Neural Information Processing Systems. 2017.
